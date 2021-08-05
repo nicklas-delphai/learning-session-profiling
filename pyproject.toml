@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "profiling-talk"
+name = "learning-session-profiling"
 version = "0.1.0"
 description = "Demo code for imporving performance by profiling"
 authors = ["Nicklas Sedlock <nicklas@delphai.com>"]
